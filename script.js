@@ -8,7 +8,7 @@ const movies = [
   { name: "jab Pandit Pakka Raha Ho", image: "IMG_6608.JPG" },
    { name: "jab gavya ko koi laddu nahi deta", image:"SERT0934.JPG" },
   { name: "lAKSHYA KO KOI DANCE KA STEP YAAD NAHI AA RAHA", image: "IMG_0091.JPG" },
-  { name: "PRIYA SOCH RAHI HAIN KI KOI LADDU KHILA DE ", image: "IMG_6323.JPG" },
+  { name: "PRIYA SOCH RAHI HAIN KI KOI LADDU KHILA DE", image: "IMG_6323.JPG" },
   { name: "gavya keh rahi ki laddu khila do", image: "SERT1355.JPG" },
     { name: "NIKHIL SOCH RAHA HAIN KI AB LADU GA KISSE", image: "IMG_6682.JPG" },
   { name: "KYA SAHIL BACCHE KO THAPPAD MAR RAHA HAIN", image: "IMG_0122.JPG" },
